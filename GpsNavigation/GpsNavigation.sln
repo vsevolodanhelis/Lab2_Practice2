@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GpsNavigation", "GpsNavigation\GpsNavigation.csproj", "{944276FC-13B2-4E15-BC63-3EAA603FDEB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GpsNavigationTests", "GpsNavigationTests\GpsNavigationTests.csproj", "{2D4F2787-2A85-4B67-B73D-7004C741C39E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944276FC-13B2-4E15-BC63-3EAA603FDEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944276FC-13B2-4E15-BC63-3EAA603FDEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944276FC-13B2-4E15-BC63-3EAA603FDEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944276FC-13B2-4E15-BC63-3EAA603FDEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D4F2787-2A85-4B67-B73D-7004C741C39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4F2787-2A85-4B67-B73D-7004C741C39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4F2787-2A85-4B67-B73D-7004C741C39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4F2787-2A85-4B67-B73D-7004C741C39E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B55C90D-E7D1-409E-AB81-8B6AD1484F31}
+	EndGlobalSection
+EndGlobal
